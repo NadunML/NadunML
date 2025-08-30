@@ -70,6 +70,4 @@ I'm a passionate software developer with expertise in building web applications 
 
 <div align="center">
 
-[![Nadun's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nadunml&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </div>
