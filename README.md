@@ -24,6 +24,7 @@
 
 </div>
 
+---
 
 ## 🚀 About Me
 
@@ -34,6 +35,7 @@ I'm a passionate **Software Developer** and an undergraduate student with expert
 * 👯 I’m looking to collaborate on **Open Source Projects**
 * 💬 Ask me about **Java, React, and UI Design**
 
+---
 
 ## 🛠️ Technologies & Tools
 
@@ -56,23 +58,4 @@ I'm a passionate **Software Developer** and an undergraduate student with expert
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-</div>
-
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadunml&show_icons=true&theme=radical&hide_border=true" height="180" alt="Nadun's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadunml&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadunml&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
-</div>
-
-
-<div align="center">
-  <sub>Authorized by Nadun Liyanage © 2025</sub>
 </div>
